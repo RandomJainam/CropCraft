@@ -1,0 +1,162 @@
+#corpcraft-floating-btn {
+
+    position: absolute;
+
+    z-index: 2147483647;
+
+    background: #111827;
+
+    color: #fbbf24;
+
+    padding: 8px 16px;
+
+    border-radius: 10px;
+
+    font-size: 13px;
+
+    font-weight: 600;
+
+    cursor: pointer;
+
+    border: 1px solid #374151;
+
+    user-select: none;
+}
+
+#corpcraft-panel {
+
+    position: fixed;
+
+    top: 50%;
+
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    width: 450px;
+
+    background: #111827;
+
+    color: white;
+
+    border-radius: 14px;
+
+    padding: 20px;
+
+    z-index: 2147483647;
+
+    box-shadow: 0 10px 30px rgba(0,0,0,.3);
+}
+
+#corpcraft-panel h2 {
+
+    margin-top: 0;
+
+    color: #fbbf24;
+}
+
+#corpcraft-panel textarea {
+
+    width: 100%;
+
+    height: 100px;
+
+    margin-top: 10px;
+
+    margin-bottom: 10px;
+
+    background: #1f2937;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 8px;
+
+    padding: 10px;
+
+    box-sizing: border-box;
+
+    resize: none;
+}
+
+#corpcraft-panel select {
+
+    width: 100%;
+
+    padding: 10px;
+
+    margin-bottom: 10px;
+
+    border-radius: 8px;
+}
+
+#corpcraft-actions {
+
+    display: flex;
+
+    gap: 10px;
+
+    margin-top: 10px;
+}
+
+#corpcraft-actions button {
+
+    flex: 1;
+
+    padding: 10px;
+
+    cursor: pointer;
+
+    border: none;
+
+    border-radius: 8px;
+
+    background: #374151;
+
+    color: white;
+
+    font-size: 14px;
+
+    font-weight: 500;
+}
+#accept-btn {
+
+    background: #16a34a;
+
+    color: rgb(0, 0, 0);
+
+    border: none;
+
+    font-color: white;
+}
+#corpcraft-header {
+
+    cursor: move;
+
+    user-select: none;
+
+    margin-bottom: 15px;
+}
+#corpcraft-title {
+
+    font-size: 22px;
+
+    font-weight: 700;
+
+    color: #fbbf24;
+}
+#corpcraft-mode {
+
+    background: white;
+
+    color: black;
+
+    font-size: 16px;
+}
+#corpcraft-mode option {
+
+    color: black;
+
+    background: white;
+}

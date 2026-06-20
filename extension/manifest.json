@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "CorpCraft",
+  "version": "1.0.0",
+  "description": "AI-powered professional communication assistant for WhatsApp and Email.",
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["content.css"]
+    }
+  ],
+  "icons": {
+  "16": "assets/icon16.png",
+  "32": "assets/icon32.png",
+  "48": "assets/icon48.png",
+  "128": "assets/icon128.png"
+}
+}

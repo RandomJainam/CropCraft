@@ -1,0 +1,12 @@
+.env
+.env.local
+
+node_modules/
+
+supabase/.temp/
+
+nts.txt
+New Text Document.txt
+
+.DS_Store
+Thumbs.db
