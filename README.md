@@ -75,25 +75,25 @@ User Selection → Chrome Extension → Supabase Edge Function → OpenRouter �
 
 ### Main Panel
 
-![Panel](ScreenShots/panel.jpg)
+![Panel](ScreenShots/panel.jpeg)
 
 ### Communication Modes
 
-![Modes](ScreenShots/modes.jpg)
+![Modes](ScreenShots/modes.jpeg)
 
 ### Gmail Integration
 
-![Gmail](ScreenShots/gmail-example.jpg)
+![Gmail](ScreenShots/gmail-example.jpeg)
 
 ### WhatsApp Integration
 
-![WhatsApp](ScreenShots/whatsapp-example.jpg)
+![WhatsApp](ScreenShots/whatsapp-example.jpeg)
 
 ### Floating Action Button
 
-![Gmail Floater](ScreenShots/gmail-floater.jpg)
+![Gmail Floater](ScreenShots/gmail-floater.jpeg)
 
-![WhatsApp Floater](ScreenShots/whatsapp-floater.jpg)
+![WhatsApp Floater](ScreenShots/whatsapp-floater.jpeg)
 
 
 ---
