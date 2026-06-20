@@ -83,17 +83,17 @@ User Selection → Chrome Extension → Supabase Edge Function → OpenRouter �
 
 ### Gmail Integration
 
-![Gmail](ScreenShots/gmail-example.jpeg)
+![Gmail](ScreenShots/gmail_example.jpeg)
 
 ### WhatsApp Integration
 
-![WhatsApp](ScreenShots/whatsapp-example.jpeg)
+![WhatsApp](ScreenShots/whatsapp_example.jpeg)
 
 ### Floating Action Button
 
-![Gmail Floater](ScreenShots/gmail-floater.jpeg)
+![Gmail Floater](ScreenShots/gmail_floater.jpeg)
 
-![WhatsApp Floater](ScreenShots/whatsapp-floater.jpeg)
+![WhatsApp Floater](ScreenShots/whatsapp_floater.jpeg)
 
 
 ---
